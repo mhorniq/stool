@@ -1,2 +1,2 @@
 # stool
-stool is sOLANA toolKIT 
+stool is a solana toolkit
